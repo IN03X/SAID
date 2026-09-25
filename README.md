@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IN03X/SAID">GitHub</a> ·
-  <a href="https://huggingface.co/IN03X/SAID">Hugging Face</a> ·
-  <a href="https://dcase.community/challenge2026/task-semantic-acoustic-imaging-for-sound-event-localization-and-detection-from-spatial-audio-and-audiovisual-scenes-results">DCASE2026</a>
+  <a href="https://github.com/IN03X/SAID"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square" alt="GitHub"></a>
+  <a href="https://huggingface.co/IN03X/SAID"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square" alt="Hugging Face"></a>
+  <a href="https://dcase.community/challenge2026/task-semantic-acoustic-imaging-for-sound-event-localization-and-detection-from-spatial-audio-and-audiovisual-scenes-results"><img src="https://img.shields.io/badge/DCASE2026%20Results-1F7A4D?style=flat-square" alt="DCASE2026 Results"></a>
 </p>
 
 <p align="center">
