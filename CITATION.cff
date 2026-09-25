@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: >-
+  If you use SAID, please cite the accompanying DCASE 2026 paper.
+title: Semantic Acoustic Imaging Detector (SAID)
+type: software
+version: 1.0.0
+authors:
+  - family-names: Wang
+    given-names: Runbang
+preferred-citation:
+  type: conference-paper
+  title: >-
+    SAID: Semantic Acoustic Imaging Detector for Sound Event Localization and
+    Detection
+  authors:
+    - family-names: Wang
+      given-names: Runbang
+    - family-names: Liang
+      given-names: Zining
+    - family-names: Cao
+      given-names: Yin
+    - family-names: Kong
+      given-names: Qiuqiang
+  collection-title: >-
+    Proceedings of the Detection and Classification of Acoustic Scenes and
+    Events 2026 Workshop
+  year: 2026

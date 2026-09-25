@@ -1,0 +1,107 @@
+SAID MODEL WEIGHTS NON-COMMERCIAL RESEARCH LICENSE
+Version 1.0, 23 September 2026
+
+Copyright (c) 2026 Runbang Wang
+
+1. Scope
+
+This license applies only to the SAID model-weight files whose checkpoint
+cards expressly identify this license (the "Model Weights"). It does not
+apply to the SAID software, datasets, audio recordings, labels, documentation,
+or third-party assets. Those materials retain their respective terms.
+
+2. Non-commercial research license
+
+Subject to this license and all applicable third-party terms, and only to the
+extent that Runbang Wang owns or controls the relevant rights, Runbang Wang
+grants you a worldwide, non-exclusive, royalty-free license to use, reproduce,
+evaluate, study, and modify the Model Weights solely for non-commercial
+research purposes. "Non-commercial research" means systematic investigation
+conducted without direct or indirect commercial advantage or monetary
+compensation.
+
+You may redistribute the Model Weights, or modified versions of them, solely
+for those purposes if you:
+
+  a. provide this license with the Model Weights;
+  b. retain the checkpoint card, copyright notices, attribution notices, and
+     third-party notices;
+  c. identify any modified weights as modified and describe the material
+     changes; and
+  d. impose no terms that reduce the protections or restrictions in this
+     license or in any applicable third-party terms.
+
+3. Commercial use prohibited
+
+To the extent an activity requires permission under rights owned or controlled
+by Runbang Wang, the permission granted in Section 2 does not authorize you to
+use, reproduce, modify, distribute, host, or otherwise exploit the Model
+Weights for a commercial purpose. Commercial purpose includes, without
+limitation, use:
+
+  a. in or to develop, test, improve, market, or support a product or service
+     intended for commercial advantage or monetary compensation;
+  b. to provide paid access, hosted inference, consulting, contract research,
+     or model-as-a-service functionality;
+  c. by or for a for-profit entity as part of its internal research and
+     development, unless separate written permission has been obtained; or
+  d. in connection with advertising, licensing for a fee, sale, or other
+     revenue-generating activity.
+
+4. Attribution
+
+Publications and public demonstrations using the Model Weights must give
+appropriate credit to Runbang Wang, identify SAID, and cite the accompanying
+DCASE 2026 paper using the citation information supplied with the release.
+
+5. Third-party materials and limited grant
+
+The Model Weights were initialized from and trained using materials described
+in their checkpoint cards and third-party notices. This license grants only
+the rights that Runbang Wang is legally entitled to grant. It does not grant,
+replace, expand, restrict, or supersede any right or obligation arising from a
+third-party model, software package, dataset, recording, label set, or other
+asset. Such third-party materials remain subject to their own licenses and
+terms. Where a third-party term is more restrictive, that term controls. You
+are responsible for determining and complying with all terms applicable to
+your intended use.
+
+6. No training-data license
+
+No right to any training dataset, source recording, annotation, or other
+training material is granted by this license. No original training data are
+distributed with the Model Weights.
+
+7. No trademark or patent license
+
+This license grants no right to use any name, logo, or trademark except as
+necessary for attribution. No patent rights are granted.
+
+8. Termination
+
+The rights in the Model Weights owned or controlled by Runbang Wang and granted
+to you under this license terminate automatically if you fail to comply with
+its terms. Upon termination, you must cease the activities that relied on those
+rights and, to the extent the affected copies were held under those rights,
+delete the copies you received or made under this license, except where
+retention is required by law. This clause does not terminate, restrict, or
+require deletion of third-party material held under a separate valid
+permission. Termination does not alter rights or obligations arising
+independently under applicable third-party terms. Sections 4 through 10 survive
+termination.
+
+9. Disclaimer
+
+THE MODEL WEIGHTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. YOU ASSUME ALL
+RISK ARISING FROM USE OF THE MODEL WEIGHTS.
+
+10. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, RUNBANG WANG WILL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE MODEL
+WEIGHTS OR THEIR USE.
+
+Commercial licensing inquiries require separate written permission from
+Runbang Wang and, where applicable, the relevant third-party rightsholders.

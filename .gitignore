@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ruff_cache/
+.mypy_cache/
+build/
+dist/
+checkpoints/*
+!checkpoints/README.md
+said/evaluation/metrics/official/
+!said/inference/
+!said/inference/**
+.acceptance/
+!docs/media/
+!docs/media/*.mp4
