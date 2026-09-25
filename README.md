@@ -6,12 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/IN03X/SAID">GitHub</a> ·
-  <a href="https://huggingface.co/IN03X/SAID">Models</a> ·
-  <a href="https://dcase.community/challenge2026/task-semantic-acoustic-imaging-for-sound-event-localization-and-detection-from-spatial-audio-and-audiovisual-scenes-results">DCASE Results</a> ·
-  <a href="#demos">Demos</a> ·
-  <a href="#evaluation">Evaluation</a> ·
-  <a href="#training-and-data">Training</a> ·
-  <a href="#documentation">Documentation</a>
+  <a href="https://huggingface.co/IN03X/SAID">Hugging Face</a> ·
+  <a href="https://dcase.community/challenge2026/task-semantic-acoustic-imaging-for-sound-event-localization-and-detection-from-spatial-audio-and-audiovisual-scenes-results">DCASE2026</a>
 </p>
 
 <p align="center">
