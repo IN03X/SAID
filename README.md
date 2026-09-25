@@ -35,19 +35,19 @@ the sound-event class legend. All four MP4 files include synchronized audio.
 
 ### SAID (PaSST) — TAU scene
 
-<video src="https://huggingface.co/IN03X/SAID/resolve/main/docs/media/said_demo_1.mp4" controls playsinline preload="metadata" width="100%"></video>
+<video src="https://github.com/user-attachments/assets/bbebcadb-628a-4df4-9fcd-af82fd8ebe22" controls playsinline preload="metadata" width="100%"></video>
 
 ### SAID (PaSST) — Sony scene
 
-<video src="https://huggingface.co/IN03X/SAID/resolve/main/docs/media/said_demo_3.mp4" controls playsinline preload="metadata" width="100%"></video>
+<video src="https://github.com/user-attachments/assets/141de9d6-85ea-446d-94aa-2f3cc21cec68" controls playsinline preload="metadata" width="100%"></video>
 
 ### Audio2Sph + Panoramic Decoder — TAU scene
 
-<video src="https://huggingface.co/IN03X/SAID/resolve/main/docs/media/audio2sph_demo_1.mp4" controls playsinline preload="metadata" width="100%"></video>
+<video src="https://github.com/user-attachments/assets/dd237622-d418-40ee-9282-4b320a06ba5a" controls playsinline preload="metadata" width="100%"></video>
 
 ### Audio2Sph + Panoramic Decoder — Sony scene
 
-<video src="https://huggingface.co/IN03X/SAID/resolve/main/docs/media/audio2sph_demo_3.mp4" controls playsinline preload="metadata" width="100%"></video>
+<video src="https://github.com/user-attachments/assets/367c27a1-b715-4331-91b2-b2802887d28d" controls playsinline preload="metadata" width="100%"></video>
 
 Details: [Inference](docs/inference.md).
 
