@@ -53,6 +53,12 @@ render = [
 [project.scripts]
 said = "said.cli:main"
 
+[project.urls]
+Repository = "https://github.com/IN03X/SAID"
+Paper = "https://arxiv.org/abs/2609.31492"
+Models = "https://huggingface.co/IN03X/SAID"
+"DCASE2026 Results" = "https://dcase.community/challenge2026/task-semantic-acoustic-imaging-for-sound-event-localization-and-detection-from-spatial-audio-and-audiovisual-scenes-results"
+
 [tool.setuptools]
 include-package-data = true
 

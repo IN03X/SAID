@@ -8,6 +8,7 @@
   <a href="https://github.com/IN03X/SAID"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square" alt="GitHub"></a>
   <a href="https://huggingface.co/IN03X/SAID"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square" alt="Hugging Face"></a>
   <a href="https://dcase.community/challenge2026/task-semantic-acoustic-imaging-for-sound-event-localization-and-detection-from-spatial-audio-and-audiovisual-scenes-results"><img src="https://img.shields.io/badge/DCASE2026%20Results-1F7A4D?style=flat-square" alt="DCASE2026 Results"></a>
+  <a href="https://arxiv.org/abs/2609.31492"><img src="https://img.shields.io/badge/arXiv-2609.31492-B31B1B?style=flat-square" alt="arXiv"></a>
 </p>
 
 <p align="center">
@@ -15,6 +16,8 @@
 </p>
 
 ## Overview
+
+Accepted at the DCASE 2026 Workshop.
 
 SAID predicts a separate **labeled acoustic map** for every active sound source
 from four-channel spatial audio. Each 180 × 360 map represents the source
@@ -215,13 +218,16 @@ fine-tuned derivatives, is not permitted under the weights license.
 If you use SAID, please cite:
 
 ```bibtex
-@inproceedings{wang2026said,
-  title     = {{SAID}: Semantic Acoustic Imaging Detector for Sound Event
-               Localization and Detection},
-  author    = {Wang, Runbang and Liang, Zining and Cao, Yin and Kong, Qiuqiang},
-  booktitle = {Proceedings of the Detection and Classification of Acoustic
-               Scenes and Events 2026 Workshop},
-  year      = {2026}
+@article{wang2026said,
+  title         = {{SAID}: Semantic Acoustic Imaging Detector for Sound Event
+                   Localization and Detection},
+  author        = {Wang, Runbang and Liang, Zining and Cao, Yin and Kong, Qiuqiang},
+  year          = {2026},
+  eprint        = {2609.31492},
+  archivePrefix = {arXiv},
+  primaryClass  = {eess.AS},
+  url           = {https://arxiv.org/abs/2609.31492},
+  note          = {Accepted at the DCASE 2026 Workshop}
 }
 ```
 
